@@ -20,13 +20,19 @@ After creation done we get CLIENT_ID and CLIENT_SECRET for googleapi client.
 
 
 ### Installation
+```bash
 npm install
+```
 
 ### Build
+```bash
 npm run build
+```
 
 ### Start Server
+```bash
 npm start
+```
 
 ### API details
 
