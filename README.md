@@ -72,11 +72,11 @@ This API return all detailas of message for given messageid(msgId)
 ###### https://developers.google.com/gmail/api/reference/rest/v1/users.messages
 ###### https://developers.google.com/gmail/api/quickstart/nodejs
 
-### googleapi npm doc
+#### googleapi npm doc
 ##### https://github.com/googleapis/google-api-nodejs-client
 ##### https://github.com/googleapis/google-auth-library-nodejs#readme
 
 
 #### scope document
-##### https://developers.google.com/identity/protocols/oauth2/scopes=>search for gmailreadonly scope
+##### https://developers.google.com/identity/protocols/oauth2/scopes
 ##### https://developers.google.com/gmail/api/auth/scopes
